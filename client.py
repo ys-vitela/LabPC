@@ -1,4 +1,4 @@
-#Diego Vitela Herrera 1822993, Heissel Gustavo Méndez Ramírez 1674452, Luis Emmanuel López Silva 1894606
+#Diego Vitela Herrera 1822993
 import socket 
 import argparse
 from cryptography.fernet import Fernet
